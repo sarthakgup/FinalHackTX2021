@@ -1,4 +1,4 @@
-# FinalHackTX2021
+# HackTX 2021 Project: Huka
 
 # Inspiration
 We aspired to develop a new form of social media for the gaming community. What resulted was a way for gaming fans to connect with aspiring collegiate gamers as well as professional esports athletes around the world. As the esports industry expands every year, we see Huka growing significantly as a platform in the months to come.
